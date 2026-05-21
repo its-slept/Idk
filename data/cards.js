@@ -10046,6 +10046,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Layla-1.webp"
+},{
+  "id": "1253",
+  "name": "Cha Cha #2",
+  "series": "Vtubers & Youtubers",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Cha-Cha-2.webp"
 }
 ];
 
