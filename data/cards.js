@@ -10062,6 +10062,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Phrolova-3.webp"
+},{
+  "id": "1255",
+  "name": "Cyn #1",
+  "series": "Murder Drones",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Cyn-1.webp"
 }
 ];
 
