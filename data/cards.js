@@ -10022,6 +10022,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Hanamiya-Rica-2.webp"
+},{
+  "id": "1250",
+  "name": "Nanahira #1",
+  "series": "Utaite",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Nanahira-1.webp"
 }
 ];
 
