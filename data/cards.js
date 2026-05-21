@@ -10086,6 +10086,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Cyn-3.webp"
+},{
+  "id": "1258",
+  "name": "Cyn #4",
+  "series": "Murder Drones",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Cyn-4.webp"
 }
 ];
 
