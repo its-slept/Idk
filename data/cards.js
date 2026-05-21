@@ -10094,6 +10094,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Cyn-4.webp"
+},{
+  "id": "1259",
+  "name": "Silver Wolf #1",
+  "series": "Honkai Verse",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Silver-Wolf-1.webp"
 }
 ];
 
