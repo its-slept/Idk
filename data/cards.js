@@ -10014,6 +10014,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Neco-Arc-1.webp"
+},{
+  "id": "1249",
+  "name": "Hanamiya Rica #2",
+  "series": "Utaite",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Hanamiya-Rica-2.webp"
 }
 ];
 
