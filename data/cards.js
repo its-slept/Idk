@@ -10006,6 +10006,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Astra-Yao-1.webp"
+},{
+  "id": "1248",
+  "name": "Neco Arc #1",
+  "series": "Tsukihime",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Neco-Arc-1.webp"
 }
 ];
 
