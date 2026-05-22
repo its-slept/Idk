@@ -1469,7 +1469,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-57-15-568_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Mornye-3.png"
 },{
   "id": "179",
   "name": "Mornye #4",
