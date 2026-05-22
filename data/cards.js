@@ -169,7 +169,7 @@ export const CARDS = [
 },{
   "id": "16",
   "name": "Vegito #1",
-  "series": "Dragon Ball Z",
+  "series": "Dragon Ball Verse",
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept ",
