@@ -10142,6 +10142,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Uzi-Doorman-1.webp"
+},{
+  "id": "1265",
+  "name": "Ritsuka & Mafuyu",
+  "series": "Given",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Ritsuka-Mafuyu.webp"
 }
 ];
 
