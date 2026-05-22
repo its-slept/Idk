@@ -10158,6 +10158,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Uzi-Doorman-2.webp"
+},{
+  "id": "1267",
+  "name": "Uzi Doorman #3",
+  "series": "Murder Drones",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Uzi-Doorman-3.webp"
 }
 ];
 
