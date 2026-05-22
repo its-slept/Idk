@@ -10102,6 +10102,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Silver-Wolf-1.webp"
+},{
+  "id": "1260",
+  "name": "Kanaria #1",
+  "series": "Utaite",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Kanaria-1.webp"
 }
 ];
 
