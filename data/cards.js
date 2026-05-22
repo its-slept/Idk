@@ -10174,6 +10174,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Khan-Doorman-1.webp"
+},{
+  "id": "1269",
+  "name": "Khan Doorman #2",
+  "series": "Murder Drones",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Khan-Doorman-2.webp"
 }
 ];
 
