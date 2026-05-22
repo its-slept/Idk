@@ -10110,6 +10110,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Kanaria-1.webp"
+},{
+  "id": "1261",
+  "name": "Jinhsi #2",
+  "series": "Wuthering Waves",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Jinhsi-2.webp"
 }
 ];
 
