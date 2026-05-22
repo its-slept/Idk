@@ -7321,7 +7321,7 @@ export const CARDS = [
 },{
   "id": "912",
   "name": "Goku & Vegeta #1",
-  "series": "Dragon Ball",
+  "series": "Dragon Ball Verse",
   "rarity": "ultimate",
   "type": "Exclusive",
   "source": "Official Art|Made By ➺ its_slept",
