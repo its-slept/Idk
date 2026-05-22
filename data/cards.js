@@ -10230,6 +10230,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Doll-3.webp"
+},{
+  "id": "1276",
+  "name": "Doll #4",
+  "series": "Murder Drones",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Doll-4.webp"
 }
 ];
 
