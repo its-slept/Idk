@@ -749,7 +749,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_01-02-52-296.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Furina-1.webp"
 },{
   "id": "89",
   "name": "Furina #2",
