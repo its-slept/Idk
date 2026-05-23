@@ -10390,6 +10390,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-11/Jane-Doe-2.webp"
+},{
+  "id": "1296",
+  "name": "Himeko X March 7th #1",
+  "series": "Honkai Verse",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-11/Himeko-X-March-7th-1.webp"
 }
 ];
 
