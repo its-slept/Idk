@@ -10366,6 +10366,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-11/Blade-5.webp"
+},{
+  "id": "1293",
+  "name": "Kaeya Alberich #1",
+  "series": "Genshin Impact",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-11/Kaeya-Alberich-1.webp"
 }
 ];
 
