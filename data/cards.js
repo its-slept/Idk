@@ -349,7 +349,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_02-51-08-012.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-11/Sunday-1.webp"
 },{
   "id": "39",
   "name": "Sunday #2",
