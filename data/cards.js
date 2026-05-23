@@ -10374,6 +10374,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-11/Kaeya-Alberich-1.webp"
+},{
+  "id": "1294",
+  "name": "Hoshimi Miyabi #1",
+  "series": "Zenless Zone Zero",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-11/Hoshimi-Miyabi-1.webp"
 }
 ];
 
