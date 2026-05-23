@@ -661,7 +661,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_00-55-54-516.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-11/Blade-3.webp"
 },{
   "id": "78",
   "name": "Blade #4",
