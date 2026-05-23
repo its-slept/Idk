@@ -7032,12 +7032,12 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Dante1_1.webp"
 },{
   "id": "875",
-  "name": "Blade #5",
+  "name": "Blade #1",
   "series": "NU: Carnival",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Blade1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Blade-1.webp"
 },{
   "id": "876",
   "name": "Kuya #1",
