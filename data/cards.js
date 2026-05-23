@@ -10270,6 +10270,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Piccolo-1.webp"
+},{
+  "id": "1281",
+  "name": "Rachie #1",
+  "series": "Utaite",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-10/Rachie-1.webp"
 }
 ];
 
