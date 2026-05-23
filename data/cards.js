@@ -525,7 +525,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-44-55-916.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-11/Phainon-3.webp"
 },{
   "id": "61",
   "name": "Phainon #4",
