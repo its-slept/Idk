@@ -485,7 +485,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-33-41-250.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-11/Kafka-4.webp"
 },{
   "id": "56",
   "name": "Kafka #5",
