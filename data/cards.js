@@ -10414,6 +10414,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-11/Vegeta-2.webp"
+},{
+  "id": "1299",
+  "name": "Goku #1",
+  "series": "Dragon Ball Verse",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-11/Goku-1.webp"
 }
 ];
 
