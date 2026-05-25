@@ -10510,6 +10510,14 @@ export const CARDS = [
   "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Yuu-Touko-1.webp"
+},{
+  "id": "1311",
+  "name": "Suzaku Kururugi #1",
+  "series": "Code Geass",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Suzaku-Kururugi-1.webp"
 }
 ];
 
