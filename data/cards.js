@@ -10590,6 +10590,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Kurumi-Tokisaki-11.webp"
+},{
+  "id": "1321",
+  "name": "Kurumi Tokisaki #12",
+  "series": "Date A Live",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Kurumi-Tokisaki-12.webp"
 }
 ];
 
