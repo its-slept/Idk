@@ -10502,6 +10502,14 @@ export const CARDS = [
   "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Mei-Yuzu-1.webp"
+},{
+  "id": "1310",
+  "name": "Yuu & Touko #1",
+  "series": "Bloom Into You",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Yuu-Touko-1.webp"
 }
 ];
 
