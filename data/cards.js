@@ -6741,7 +6741,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Alya14.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Alisa-Mikhailovna-Kujou-12.webp"
 },{
   "id": "839",
   "name": "Ena Shinonome #2",
