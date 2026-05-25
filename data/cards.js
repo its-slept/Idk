@@ -10455,13 +10455,21 @@ export const CARDS = [
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-11/Bulma-1.webp"
 },{
-  "id": "1303",
+  "id": "1304",
   "name": "Bulma #2",
   "series": "Dragon Ball Verse",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-11/Bulma-2.webp"
+},{
+  "id": "1305",
+  "name": "Android 18 #1",
+  "series": "Dragon Ball Verse",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Android-18-1.webp"
 }
 ];
 
