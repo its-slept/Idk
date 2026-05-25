@@ -10518,6 +10518,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Suzaku-Kururugi-1.webp"
+},{
+  "id": "1312",
+  "name": "Lelouch Vi Britannia #1",
+  "series": "Code Geass",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Lelouch-Vi-Britannia-1.webp"
 }
 ];
 
