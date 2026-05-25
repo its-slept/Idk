@@ -10526,6 +10526,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Lelouch-Vi-Britannia-1.webp"
+},{
+  "id": "1313",
+  "name": "Nagisa Momoe #1",
+  "series": "Puella Magi Madoka Magica",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Nagisa-Momoe-1.webp"
 }
 ];
 
