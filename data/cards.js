@@ -10494,6 +10494,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Yamcha-2.webp"
+},{
+  "id": "1309",
+  "name": "Mei & Yuzu #1",
+  "series": "Citrus",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Mei-Yuzu-1.webp"
 }
 ];
 
