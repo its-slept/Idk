@@ -10598,6 +10598,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Kurumi-Tokisaki-12.webp"
+},{
+  "id": "1322",
+  "name": "Blade #6",
+  "series": "Honkai Verse",
+  "rarity": "celestial",
+  "type": "Permanent",
+  "source": "Official Art | Made By ➺ 2zeph",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Blade-6.webp"
 }
 ];
 
