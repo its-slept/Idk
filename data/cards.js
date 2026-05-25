@@ -1013,7 +1013,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-19-56-433_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Alisa-Mikhailovna-Kujou-6.webp"
 },{
   "id": "122",
   "name": "Maria Mikhailovna Kujou #1",
