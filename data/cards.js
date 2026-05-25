@@ -6725,7 +6725,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/KurumiTokisaki8.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Kurumi-Tokisaki-8.webp"
 },{
   "id": "837",
   "name": "Nene Yashiro #3",
