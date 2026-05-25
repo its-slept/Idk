@@ -10542,6 +10542,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Mami-Tomoe-1.webp"
+},{
+  "id": "1315",
+  "name": "Shino x Ren #2",
+  "series": "Shino To Ren",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Shino-x-Ren-2.webp"
 }
 ];
 
