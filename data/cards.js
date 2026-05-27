@@ -10622,6 +10622,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Homura-Akemi-1.webp"
+},{
+  "id": "1325",
+  "name": "Hestia & Bell #1",
+  "series": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Hestia-Bell-1.webp"
 }
 ];
 
