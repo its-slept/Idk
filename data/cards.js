@@ -10670,6 +10670,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Sigewinne-1.webp"
+},{
+  "id": "1331",
+  "name": "Durin #1",
+  "series": "Genshin Impact",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Durin-1.webp"
 }
 ];
 
