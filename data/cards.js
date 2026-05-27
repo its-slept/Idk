@@ -10678,6 +10678,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Durin-1.webp"
+},{
+  "id": "1332",
+  "name": "Madoka Kaname #1",
+  "series": "Puella Magi Madoka Magica",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Madoka-Kaname-1.webp"
 }
 ];
 
