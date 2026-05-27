@@ -10798,6 +10798,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Whis-1.webp"
+},{
+  "id": "1347",
+  "name": "Master Roshi #1",
+  "series": "Dragon Ball Verse",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Master-Roshi-1.png"
 }
 ];
 
