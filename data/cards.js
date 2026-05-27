@@ -5192,12 +5192,12 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Alma1.webp"
 },{
   "id": "645",
-  "name": "Alpha #10",
+  "name": "Alpha #1",
   "series": "Punishing: Gray Raven",
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Alpha1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Alpha-1.webp"
 },{
   "id": "646",
   "name": "Aqua #2",
