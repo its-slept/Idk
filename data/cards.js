@@ -10758,6 +10758,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Mita-2.webp"
+},{
+  "id": "1342",
+  "name": "Mita #3",
+  "series": "MiSide",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Mita-3.webp"
 }
 ];
 
