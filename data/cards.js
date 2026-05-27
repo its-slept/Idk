@@ -10614,6 +10614,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Ryomen-Sukuna-2.webp"
+},{
+  "id": "1324",
+  "name": "Homura Akemi #1",
+  "series": "Puella Magi Madoka Magica",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Homura-Akemi-1.webp"
 }
 ];
 
