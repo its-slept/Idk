@@ -10726,6 +10726,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Inui-Toko-1.png"
+},{
+  "id": "1338",
+  "name": "Denia #2",
+  "series": "Wuthering Waves",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Denia-2.webp"
 }
 ];
 
