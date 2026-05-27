@@ -10606,6 +10606,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art | Made By ➺ 2zeph",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Blade-6.webp"
+},{
+  "id": "1323",
+  "name": "Ryomen Sukuna #2",
+  "series": "Jujutsu Kaisen",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Ryomen-Sukuna-2.webp"
 }
 ];
 
