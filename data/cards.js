@@ -10742,6 +10742,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Denia-3.webp"
+},{
+  "id": "1340",
+  "name": "Fuwawa & Mococo #1",
+  "series": "Hololive",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Fuwawa-Mococo-1.webp"
 }
 ];
 
