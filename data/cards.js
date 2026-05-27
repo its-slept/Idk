@@ -10694,6 +10694,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Sayaka-Miki-1.webp"
+},{
+  "id": "1334",
+  "name": "Sakura & Sayaka #1",
+  "series": "Puella Magi Madoka Magica",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Sakura-Sayaka-1.webp"
 }
 ];
 
