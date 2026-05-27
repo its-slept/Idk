@@ -1016,12 +1016,12 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Alisa-Mikhailovna-Kujou-6.webp"
 },{
   "id": "122",
-  "name": "Maria Mikhailovna Kujou #1",
+  "name": "Maria Mikhailovna Kujou #8",
   "series": "Alya Sometimes Hides Her Feelings In Russian",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-23-58-459_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Base%20-%202/Maria-Mikhailovna-Kujou-8.png"
 },{
   "id": "123",
   "name": "Maria Mikhailovna Kujou #2",
