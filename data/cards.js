@@ -10750,6 +10750,14 @@ export const CARDS = [
   "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Fuwawa-Mococo-1.webp"
+},{
+  "id": "1341",
+  "name": "Mita #2",
+  "series": "MiSide",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Mita-2.webp"
 }
 ];
 
