@@ -10734,6 +10734,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Denia-2.webp"
+},{
+  "id": "1339",
+  "name": "Denia #3",
+  "series": "Wuthering Waves",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Denia-3.webp"
 }
 ];
 
