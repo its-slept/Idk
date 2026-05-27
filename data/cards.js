@@ -10646,6 +10646,14 @@ export const CARDS = [
   "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Suzaku-Lelouch-1.webp"
+},{
+  "id": "1328",
+  "name": "Erina Makina #1",
+  "series": "Vtubers & Youtubers",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Erina-Makina-1.webp"
 }
 ];
 
