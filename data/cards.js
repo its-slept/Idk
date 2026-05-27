@@ -10638,6 +10638,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Hestia-3.webp"
+},{
+  "id": "1327",
+  "name": "Suzaku & Lelouch #1",
+  "series": "Code Geass",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Suzaku-Lelouch-1.webp"
 }
 ];
 
