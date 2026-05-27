@@ -10686,6 +10686,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Madoka-Kaname-1.webp"
+},{
+  "id": "1333",
+  "name": "Sayaka Miki #1",
+  "series": "Puella Magi Madoka Magica",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Sayaka-Miki-1.webp"
 }
 ];
 
