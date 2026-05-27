@@ -10702,6 +10702,14 @@ export const CARDS = [
   "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Sakura-Sayaka-1.webp"
+},{
+  "id": "1335",
+  "name": "Tokoyami Towa #2",
+  "series": "Hololive",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-12/Tokoyami-Towa-2.webp"
 }
 ];
 
