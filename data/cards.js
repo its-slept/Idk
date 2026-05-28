@@ -10846,6 +10846,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Airi-Momoi-2.webp"
+},{
+  "id": "1353",
+  "name": "Nene & Emu #1",
+  "series": "Project SEKAI Colorful Stage!",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Nene-Emu-1.webp"
 }
 ];
 
