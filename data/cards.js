@@ -10870,6 +10870,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Haruka-Kiritani-3.webp"
+},{
+  "id": "1356",
+  "name": "Emu Ootori #3",
+  "series": "Project SEKAI Colorful Stage!",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Emu-Ootori-3.webp"
 }
 ];
 
