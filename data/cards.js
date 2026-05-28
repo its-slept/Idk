@@ -10942,6 +10942,14 @@ export const CARDS = [
   "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Hiiro-Nagisa-1.webp"
+},{
+  "id": "1365",
+  "name": "Lumina Ichihoshi #1",
+  "series": "D4DJ Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Lumina-Ichihoshi-1.webp"
 }
 ];
 
