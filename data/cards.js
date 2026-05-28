@@ -11086,6 +11086,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Sayaka-Murano-1.webp"
+},{
+  "id": "1383",
+  "name": "Kozue & Kaho #1",
+  "series": "Love Live! Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Kozue-Kaho-1.webp"
 }
 ];
 
