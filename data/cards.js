@@ -10897,7 +10897,7 @@ export const CARDS = [
 },{
   "id": "1359",
   "name": "Noa Fukushima #1",
-  "series": "D4DJ Groovy Mix",
+  "series": "D4DJ Series",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
