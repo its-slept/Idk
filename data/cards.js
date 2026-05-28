@@ -10902,6 +10902,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Noa-Fukushima-1.webp"
+},{
+  "id": "1360",
+  "name": "Sophia #1",
+  "series": "D4DJ Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Sophia-1.webp"
 }
 ];
 
