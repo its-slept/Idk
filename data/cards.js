@@ -10998,6 +10998,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Shion-2.webp"
+},{
+  "id": "1372",
+  "name": "Jakah #1",
+  "series": "DARK MOON: THE BLOOD ALTAR",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Jakah-1.webp"
 }
 ];
 
