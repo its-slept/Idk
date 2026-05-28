@@ -10910,6 +10910,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Sophia-1.webp"
+},{
+  "id": "1361",
+  "name": "Sophia #2",
+  "series": "D4DJ Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Sophia-2.webp"
 }
 ];
 
