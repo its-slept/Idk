@@ -10854,6 +10854,14 @@ export const CARDS = [
   "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Nene-Emu-1.webp"
+},{
+  "id": "1354",
+  "name": "Akito Shinonome #2",
+  "series": "Project SEKAI Colorful Stage!",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Akito-Shinonome-2.webp"
 }
 ];
 
