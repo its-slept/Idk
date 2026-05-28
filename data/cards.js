@@ -11062,6 +11062,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Kaho-Hinoshita-1.webp"
+},{
+  "id": "1380",
+  "name": "Rurino Osawa #1",
+  "series": "Love Live! Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Rurino-Osawa-1.webp"
 }
 ];
 
