@@ -10950,6 +10950,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Lumina-Ichihoshi-1.webp"
+},{
+  "id": "1366",
+  "name": "Broly #1",
+  "series": "Dragon Ball Verse",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Broly-1.webp"
 }
 ];
 
