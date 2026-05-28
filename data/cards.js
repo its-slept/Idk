@@ -11046,6 +11046,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Tsuzuri-Yugiri-1.webp"
+},{
+  "id": "1378",
+  "name": "Megumi Fujishima #1",
+  "series": "Love Live! Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Megumi-Fujishima-1.webp"
 }
 ];
 
