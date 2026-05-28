@@ -10830,6 +10830,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Minori-Hanasato-2.webp"
+},{
+  "id": "1351",
+  "name": "Airi Momoi #1",
+  "series": "Project SEKAI Colorful Stage!",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Airi-Momoi-1.webp"
 }
 ];
 
