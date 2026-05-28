@@ -10990,6 +10990,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Sasaki-Miyano-1.webp"
+},{
+  "id": "1371",
+  "name": "Shion #2",
+  "series": "DARK MOON: THE BLOOD ALTAR",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Shion-2.webp"
 }
 ];
 
