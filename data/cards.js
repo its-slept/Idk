@@ -10878,6 +10878,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Emu-Ootori-3.webp"
+},{
+  "id": "1357",
+  "name": "Kana Sukoya #2",
+  "series": "Nijisanji",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Kana-Sukoya-2.webp"
 }
 ];
 
