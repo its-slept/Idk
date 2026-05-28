@@ -10926,6 +10926,14 @@ export const CARDS = [
   "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Hayate-Kokoa-1.webp"
+},{
+  "id": "1363",
+  "name": "Kurumi Shiratori #1",
+  "series": "D4DJ Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Kurumi-Shiratori-1.webp"
 }
 ];
 
