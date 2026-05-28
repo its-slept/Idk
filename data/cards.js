@@ -10934,6 +10934,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Kurumi-Shiratori-1.webp"
+},{
+  "id": "1364",
+  "name": "Hiiro & Nagisa #1",
+  "series": "D4DJ Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Hiiro-Nagisa-1.webp"
 }
 ];
 
