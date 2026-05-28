@@ -10894,6 +10894,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Flower-1.webp"
+},{
+  "id": "1359",
+  "name": "Noa Fukushima #1",
+  "series": "D4DJ Groovy Mix",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Noa-Fukushima-1.webp"
 }
 ];
 
