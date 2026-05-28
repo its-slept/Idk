@@ -10862,6 +10862,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Akito-Shinonome-2.webp"
+},{
+  "id": "1355",
+  "name": "Haruka Kiritani #3",
+  "series": "Project SEKAI Colorful Stage!",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Haruka-Kiritani-3.webp"
 }
 ];
 
