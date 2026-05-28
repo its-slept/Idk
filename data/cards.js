@@ -11024,12 +11024,12 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Helo-1.webp"
 },{
   "id": "1375",
-  "name": "Nao #1",
+  "name": "Noa #1",
   "series": "DARK MOON: THE BLOOD ALTAR",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Nao-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Noa-1.webp"
 }
 ];
 
