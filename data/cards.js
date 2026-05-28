@@ -11030,6 +11030,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Noa-1.webp"
+},{
+  "id": "1376",
+  "name": "Jaan #1",
+  "series": "DARK MOON: THE BLOOD ALTAR",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Jaan-1.webp"
 }
 ];
 
