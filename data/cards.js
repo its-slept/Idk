@@ -10981,7 +10981,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Zeno-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Zeno-2.webp"
 },{
   "id": "1370",
   "name": "Sasaki & Miyano #1",
