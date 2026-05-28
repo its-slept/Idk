@@ -10918,6 +10918,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Sophia-2.webp"
+},{
+  "id": "1362",
+  "name": "Hayate & Kokoa #1",
+  "series": "D4DJ Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Hayate-Kokoa-1.webp"
 }
 ];
 
