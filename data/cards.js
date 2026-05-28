@@ -6904,12 +6904,12 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Kagura1.webp"
 },{
   "id": "859",
-  "name": "Lilith #2",
+  "name": "Lilith #1",
   "series": "Punishing: Gray Raven",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Lilith1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Lilith-1.webp"
 },{
   "id": "860",
   "name": "Megurine Luka #1",
