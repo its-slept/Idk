@@ -11054,6 +11054,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Megumi-Fujishima-1.webp"
+},{
+  "id": "1379",
+  "name": "Kaho Hinoshita #1",
+  "series": "Love Live! Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Kaho-Hinoshita-1.webp"
 }
 ];
 
