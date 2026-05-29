@@ -3656,12 +3656,12 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_21-35-21-075.webp"
 },{
   "id": "453",
-  "name": "Akira #2",
+  "name": "Akira #1",
   "series": "Blood of the Reprimanded Dog",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent/Picsart_26-02-23_22-39-42-021.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent/Akira-1.webp"
 },{
   "id": "454",
   "name": "Ren Shirayuki #1",
