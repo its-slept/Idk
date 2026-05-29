@@ -4320,12 +4320,12 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-137.webp"
 },{
   "id": "536",
-  "name": "Scarlet #2",
+  "name": "Scarlet #1",
   "series": "I'm The Grim Reaper",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-14.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Scarlet-1.webp"
 },{
   "id": "537",
   "name": "Vladilena Milizé #1",
