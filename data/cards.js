@@ -11094,6 +11094,14 @@ export const CARDS = [
   "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Kozue-Kaho-1.webp"
+},{
+  "id": "1384",
+  "name": "Denia #4",
+  "series": "Wuthering Waves",
+  "rarity": "celestial",
+  "type": "Permanent",
+  "source": "Official Art | Made By ➺ im_down_bad",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Denia-4.webp"
 }
 ];
 
