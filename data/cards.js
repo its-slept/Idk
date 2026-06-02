@@ -5683,7 +5683,7 @@ export const CARDS = [
   "name": "Maomao #7",
   "series": "The Apothecary Diaries",
   "rarity": "godly",
-  "type": "Lunar Festival",
+  "type": "Exclusive",
   "source": "Official Art |Made By » its_slept",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Lunar%20festival/maomao7.webp"
 },{
