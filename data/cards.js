@@ -11278,6 +11278,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Kagami-Kira-1.webp"
+},{
+  "id": "1407",
+  "name": "Rei Ayanami #1",
+  "series": "Neon Genesis Evangelion",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Rei-Ayanami-1.webp"
 }
 ];
 
