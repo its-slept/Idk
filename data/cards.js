@@ -11310,6 +11310,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Kiss-Shot-Koyomi-1.webp"
+},{
+  "id": "1411",
+  "name": "Mikaela x Yuu #1",
+  "series": "Seraph of the End",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Mikaela-x-Yuu-1.webp"
 }
 ];
 
