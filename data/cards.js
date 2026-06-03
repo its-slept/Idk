@@ -11182,6 +11182,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Mash-Kyrielight-2.webp"
+},{
+  "id": "1395",
+  "name": "Mash Kyrielight #1",
+  "series": "Fate Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Mash-Kyrielight-1.webp"
 }
 ];
 
