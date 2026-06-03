@@ -11326,6 +11326,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Shinji-x-Kaworu-1.webp"
+},{
+  "id": "1413",
+  "name": "Satone Shichimiya #1",
+  "series": "Love, Chunibyo & Other Delusions!",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Satone-Shichimiya-1.webp"
 }
 ];
 
