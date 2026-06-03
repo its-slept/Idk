@@ -11342,6 +11342,14 @@ export const CARDS = [
   "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Rikka-Shichimiya-1.webp"
+},{
+  "id": "1415",
+  "name": "Yuki x Zero #1",
+  "series": "Vampire Knight",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Yuki-x-Zero-1.webp"
 }
 ];
 
