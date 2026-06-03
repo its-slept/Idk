@@ -11302,6 +11302,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Ash-Lynx-1.webp"
+},{
+  "id": "1410",
+  "name": "Kiss-Shot & Koyomi #1",
+  "series": "Monogatari (Series)",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Kiss-Shot-Koyomi-1.webp"
 }
 ];
 
