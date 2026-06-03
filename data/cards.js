@@ -11110,6 +11110,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Han-Sooyoung-1.webp"
+},{
+  "id": "1386",
+  "name": "Han Sooyoung #2",
+  "series": "Omniscient Reader's Viewpoint",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Han-Sooyoung-2.webp"
 }
 ];
 
