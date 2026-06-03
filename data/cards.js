@@ -11102,6 +11102,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art | Made By ➺ im_down_bad",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Denia-4.webp"
+},{
+  "id": "1385",
+  "name": "Han Sooyoung #1",
+  "series": "Omniscient Reader's Viewpoint",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Han-Sooyoung-1.webp"
 }
 ];
 
