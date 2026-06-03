@@ -11189,7 +11189,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Mash-Kyrielight-2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Mash-Kyrielight-2-2.webp"
 },{
   "id": "1396",
   "name": "Phrolova #4",
