@@ -11206,6 +11206,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Jun-Sazanami-2.webp"
+},{
+  "id": "1398",
+  "name": "Lain #1",
+  "series": "Serial Experiments Lain",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Lain-1.webp"
 }
 ];
 
