@@ -11150,6 +11150,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Ereshkigal-1.webp"
+},{
+  "id": "1391",
+  "name": "Ishtar #1",
+  "series": "Fate Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Ishtar-1.webp"
 }
 ];
 
