@@ -11198,6 +11198,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Phrolova-4.webp"
+},{
+  "id": "1397",
+  "name": "Jun Sazanami #2",
+  "series": "Ensemble Stars",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Jun-Sazanami-2.webp"
 }
 ];
 
