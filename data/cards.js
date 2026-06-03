@@ -11166,6 +11166,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Changli-2.webp"
+},{
+  "id": "1393",
+  "name": "Changli #3",
+  "series": "Wuthering Waves",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Changli-3.webp"
 }
 ];
 
