@@ -11134,6 +11134,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Hugo-Vlad-2.webp"
+},{
+  "id": "1389",
+  "name": "Flora #1",
+  "series": "Fate Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-13/Flora-1.webp"
 }
 ];
 
