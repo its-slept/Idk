@@ -11246,6 +11246,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Noan-2.webp"
+},{
+  "id": "1403",
+  "name": "Inukashi #1",
+  "series": "No. 6",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Inukashi-1.webp"
 }
 ];
 
