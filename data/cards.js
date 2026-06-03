@@ -11323,7 +11323,7 @@ export const CARDS = [
   "name": "Shinji x Kaworu #1",
   "series": "Neon Genesis Evangelion",
   "rarity": "rare,epic,legendary",
-  "type": "Permanent",
+  "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Shinji-x-Kaworu-1.webp"
 },{
