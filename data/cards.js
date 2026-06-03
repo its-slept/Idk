@@ -11238,6 +11238,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Noan-1.webp"
+},{
+  "id": "1402",
+  "name": "Noan #2",
+  "series": "Punishing: Gray Raven",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Noan-2.webp"
 }
 ];
 
