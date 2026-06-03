@@ -11273,7 +11273,7 @@ export const CARDS = [
 },{
   "id": "1406",
   "name": "Kagami Kira #1",
-  "series": "Holostars",
+  "series": "Vtubers & Youtubers",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
