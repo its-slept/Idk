@@ -11334,6 +11334,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Satone-Shichimiya-1.webp"
+},{
+  "id": "1414",
+  "name": "Rikka & Shichimiya #1",
+  "series": "Love, Chunibyo & Other Delusions!",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Rikka-Shichimiya-1.webp"
 }
 ];
 
