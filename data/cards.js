@@ -11254,6 +11254,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Inukashi-1.webp"
+},{
+  "id": "1404",
+  "name": "Nezumi #1",
+  "series": "No. 6",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Nezumi-1.webp"
 }
 ];
 
