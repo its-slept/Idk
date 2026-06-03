@@ -11374,6 +11374,14 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Zani-1.webp"
+},{
+  "id": "1419",
+  "name": "Francesca x Francois #1",
+  "series": "Fate Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent Duo",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Francesca-x-Francois-1.webp"
 }
 ];
 
