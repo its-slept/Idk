@@ -56,7 +56,7 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Picsart_26-02-16_11-12-31-328_waifu2x_art_scan_noise3_scale.webp"
 },{
   "id": "2",
-  "name": "Satoru Gojo #1",
+  "name": "Gojo X Sukuna #1",
   "series": "Jujutsu Kaisen",
   "rarity": "celestial",
   "type": "Permanent",
