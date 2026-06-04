@@ -60,7 +60,7 @@ export const CARDS = [
   "series": "Jujutsu Kaisen",
   "rarity": "ultimate",
   "type": "Permanent Duo",
-  "source": "Official Art|Made By ➺ its_slept",
+  "source": "Official Art|Made By ➺ im_down_bad",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Card-3.webp"
 },{
   "id": "3",
