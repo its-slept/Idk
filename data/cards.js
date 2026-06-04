@@ -59,7 +59,7 @@ export const CARDS = [
   "name": "Gojo X Sukuna #1",
   "series": "Jujutsu Kaisen",
   "rarity": "celestial",
-  "type": "Permanent",
+  "type": "Permanent Duo",
   "source": "Official Art|Made By ➺ its_slept",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/Card-1.webp"
 },{
