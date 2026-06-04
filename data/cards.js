@@ -61,7 +61,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent Duo",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Card-2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Card-3.webp"
 },{
   "id": "3",
   "name": "Inori Yuzuriha #1",
