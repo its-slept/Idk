@@ -7264,12 +7264,12 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/FernXFrieren1.webp"
 },{
   "id": "905",
-  "name": "Wei X Lan #1",
+  "name": "Lan & Wei #6",
   "series": "Grandmaster of Demonic Cultivation",
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/WeiXLan6.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Lan-Wei-6.webp"
 },{
   "id": "906",
   "name": "Neuro X Evil #1",
