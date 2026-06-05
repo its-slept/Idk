@@ -11382,6 +11382,14 @@ export const CARDS = [
   "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Francesca-x-Francois-1.webp"
+},{
+  "id": "1420",
+  "name": "Nahida #3",
+  "series": "Genshin Impact",
+  "rarity": "godly",
+  "type": "Permanent",
+  "source": "Official Art | Made By ➺ Mid & Slept",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-14/Nahida-3.webp"
 }
 ];
 
