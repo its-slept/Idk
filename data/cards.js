@@ -8904,12 +8904,12 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Ruby-Hakanai1.webp"
 },{
   "id": "1110",
-  "name": "Wei & Lan #1",
+  "name": "Lan & Wei #7",
   "series": "Grandmaster of Demonic Cultivation",
   "rarity": "celestial",
   "type": "Easter",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/WeiXLan5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Lan-Wei-7.webp"
 },{
   "id": "1111",
   "name": "Anna Yamada #3",
