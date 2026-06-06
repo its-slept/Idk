@@ -312,12 +312,12 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Cyrene-1.webp"
 },{
   "id": "34",
-  "name": "Cyrene #1",
+  "name": "Cyrene #2",
   "series": "Honkai Verse",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Cyrene-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Cyrene-2.webp"
 },{
   "id": "35",
   "name": "Cyrene #3",
